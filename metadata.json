@@ -1,0 +1,6 @@
+{
+  "name": "Video Stream",
+  "description": "Video streaming platform with AdMob monetization, in-app video player, rewarded ad unlock, admin management portal, and push notifications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
